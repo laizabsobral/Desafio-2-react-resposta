@@ -14,6 +14,7 @@
 
 <p>
   yarn
+  <br>
   yarn server
 </p>
 
@@ -27,5 +28,6 @@
 
 <p>
   // No navegador digite
+  <br>
   http://localhost:8080/
 </p>
